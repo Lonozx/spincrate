@@ -99,9 +99,10 @@ h1 span {
   flex-direction: column;
   align-items: center;
   /* background-image: url(img/backg.webp); */
-  background-image: url(./bgupdate.png);
+  /* background-image: url(./bgupdate.png); */
+  background-image: url(./bg_n.png);
   background-size: cover;
-  background-position: center -15%;
+  background-position: center 5%;
   background-repeat: no-repeat;
 }
 .main:before {
